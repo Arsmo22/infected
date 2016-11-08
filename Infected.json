@@ -1,8 +1,14 @@
-<theme>
-    <name>Infected</name>
-    <skinType>1</skinType>
-    <description>[ui.option.theme.dark]</description>
-    <previewUri>darkStonePreview.jpg</previewUri>
-	<author>Ankama Games</author>
-</theme>
-https://github.com/Arsmo22/infected/blob/master/InfectedMushroom2.zip?raw=true
+[ 
+{ 
+"author" : "Sunflakes", 
+"name" : "Infected", 
+"keyWords" : "keyword1,keyword2", 
+"version" : "1.0.1", 
+"dofusVersion" : "2.37", 
+"description" : "Theme Infected Mushroom sur fond astral", 
+"url" : "https://github.com/Arsmo22/infected/blob/master/InfectedMushroom2.zip?raw=true", 
+"previewUrl" : "https://github.com/Arsmo22/infected/blob/master/darkStonePreview.png?raw=true", 
+"creationDate" : "08/11/2016", 
+"modificationDate" : "25/12/2016" 
+} 
+]  
